@@ -1,6 +1,6 @@
 # Node.js WordPress Command Line Wrapper
 
-A littleThis is a small Node.js wrapper used to asynchronously interact with the WP-CLI, which is the command line interface for WordPress.
+This is a small Node.js wrapper used to asynchronously interact with the WP-CLI, which is the command line interface for WordPress.
 
 ## Introduction
 
