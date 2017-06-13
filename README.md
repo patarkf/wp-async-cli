@@ -1,10 +1,14 @@
 # Node.js WordPress Command Line Wrapper
 
-A littleThis is a small Node.js wrapper used to asynchronously interact with the WP-CLI, which is the command line interface for WordPress.
+This is a small Node.js wrapper used to asynchronously interact with the WP-CLI, which is the command line interface for WordPress.
 
 ## Introduction
 
 The purpose of this application is to help users to write routines using the WP-CLI without needing to write commands directly on the bash. By using this application, you're also able to create business logic to interact with your WordPress instance in high level.
+
+## Requirements
+
+All you need here is `Node.js 8`, since we are not using Babel.
 
 ## Install
 
