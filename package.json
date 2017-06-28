@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-wordpress-command-line-wrapper",
+  "name": "wp-async-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
